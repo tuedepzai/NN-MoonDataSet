@@ -1,0 +1,76 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "moonDatasetNeuralNetwork",
+					"jsonFile" : "directory-moonDatasetNeuralNetwork-Debug-61dc6a966c6bb2aa9ba7.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "moonDatasetNeuralNetwork",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "moonDatasetNeuralNetwork",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "moonDatasetNeuralNetwork::@c736b2d6dd7979a00f1b",
+					"jsonFile" : "target-moonDatasetNeuralNetwork-Debug-d0d9cee56a5ee25b50c2.json",
+					"name" : "moonDatasetNeuralNetwork",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/doget/source/repos/moonDatasetNeuralNetwork/out/build/x64-debug",
+		"source" : "C:/Users/doget/source/repos/moonDatasetNeuralNetwork"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

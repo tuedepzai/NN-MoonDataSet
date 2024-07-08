@@ -1,0 +1,6 @@
+# ninja log v5
+15	2216	7421521698990119	moonDatasetNeuralNetwork/CMakeFiles/moonDatasetNeuralNetwork.dir/main.cpp.obj	4674c33a3a3683bf
+15	916	7421488353092334	moonDatasetNeuralNetwork/CMakeFiles/moonDatasetNeuralNetwork.dir/Forward.cpp.obj	6a2610d9aa2ad3d0
+2217	3026	7421521700585456	moonDatasetNeuralNetwork/moonDatasetNeuralNetwork.exe	9a8a542c9e41b2dd
+9	3268	7421687871962585	build.ninja	a088b2d5b3b7d029
+18	83	7421455274234082	moonDatasetNeuralNetwork/CMakeFiles/moonDatasetNeuralNetwork.dir/Activation.cpp.obj	e4b1b06aa091cecc

@@ -1,0 +1,5 @@
+C:/Users/doget/source/repos/moonDatasetNeuralNetwork/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/doget/source/repos/moonDatasetNeuralNetwork/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/doget/source/repos/moonDatasetNeuralNetwork/out/build/x64-debug/moonDatasetNeuralNetwork/CMakeFiles/moonDatasetNeuralNetwork.dir
+C:/Users/doget/source/repos/moonDatasetNeuralNetwork/out/build/x64-debug/moonDatasetNeuralNetwork/CMakeFiles/edit_cache.dir
+C:/Users/doget/source/repos/moonDatasetNeuralNetwork/out/build/x64-debug/moonDatasetNeuralNetwork/CMakeFiles/rebuild_cache.dir
